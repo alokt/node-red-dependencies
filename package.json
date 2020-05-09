@@ -1,10 +1,18 @@
 {
-    "name": "node-red-abridged-dependencies",
-    "description": "Abridged node-red core dependencies",
-    "version": "0.0.1",
-    "dependencies": {
-        "node-red-contrib-chatbot": "~0.18.15",
-        "node-red-contrib-config": "~1.1.2",
-        "node-red-contrib-uibuilder": "~2.0.7"
-     }
+  "name": "node-red-abridged-dependencies",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alokt/node-red-dependencies.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alokt/node-red-dependencies/issues"
+  },
+  "homepage": "https://github.com/alokt/node-red-dependencies#readme"
 }
