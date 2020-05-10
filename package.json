@@ -1,6 +1,6 @@
 {
   "name": "node-red-abridged-dependencies",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,10 +12,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-      "jquery": "^3.5.1",
       "node-red-contrib-chatbot": "~0.18.15",
       "node-red-contrib-config": "~1.1.2",
-      "node-red-contrib-uibuilder": "~2.0.7"
+      "node-red-contrib-uibuilder": "~2.0.7",
+      "node-red-contrib-ethers": "~1.0.0",
+      "node-red-contrib-loop-processing": "~0.3.1",
+      "node-red-contrib-viseo-airtable": "github:alokt/node-red-contrib-airtable#master",
+      "ws": "^7.2.1"
   },
   "bugs": {
     "url": "https://github.com/alokt/node-red-dependencies/issues"
