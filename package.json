@@ -12,13 +12,23 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+      "@aws-crypto/client-node": "^1.0.4",
+      "abridged": "^2.0.0-beta.2",
+      "aws-sdk": "^2.659.0",
+      "eth-sdk": "^0.2.8",
       "node-red-contrib-chatbot": "~0.18.15",
+      "node-red-node-twitter": "~1.1.6",
       "node-red-contrib-config": "~1.1.2",
       "node-red-contrib-uibuilder": "~2.0.7",
       "node-red-contrib-ethers": "~1.0.0",
       "node-red-contrib-loop-processing": "~0.3.1",
       "node-red-contrib-viseo-airtable": "github:alokt/node-red-contrib-airtable#master",
-      "ws": "^7.2.1"
+      "node-red-contrib-simple-message-queue": "^0.2.5",
+      "telegraf": "^3.37.0",
+      "ws": "^7.2.1",
+      "web3-eth-abi": "^1.2.7",
+      "ethers": "^4.0.46",
+      "node-fetch": "^2.6.0",
   },
   "bugs": {
     "url": "https://github.com/alokt/node-red-dependencies/issues"
